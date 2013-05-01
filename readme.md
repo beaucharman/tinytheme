@@ -1,3 +1,3 @@
 # A tiny, blank, WordPress theme.
 
-Includes just a tiny bit more the bear minimum to get a WordPress theme going.
+Includes just a tiny bit more than the bare minimum to get a WordPress theme going.
