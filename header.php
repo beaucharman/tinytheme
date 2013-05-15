@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<!--[if lt IE 8]>      <html class="no-js oldie"> <![endif]-->
+<!--[if lt IE 9]>      <html class="no-js oldie"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" <?php language_attributes(); ?>> <!--<![endif]-->
   <head>
     <meta charset="utf-8">
@@ -13,7 +13,7 @@
     <meta name="viewport" content="width=device-width">
 
     <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>" type="text/css" media="all" />
-    <link rel="pingback" href="<?php bloginfo( "pingback_url" ); ?>" />
+    <link rel="pingback" href="<?php bloginfo("pingback_url"); ?>" />
 
     <!--[if IE]>
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
